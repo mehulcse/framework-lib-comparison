@@ -22,6 +22,7 @@ For react, we will go through [Material-UI](https://material-ui.com/), [Chakra-U
 |**Styled Components**|:white_check_mark:|:negative_squared_cross_mark:|:negative_squared_cross_mark:|
 |**Theming**|:white_check_mark:|:white_check_mark:|:negative_squared_cross_mark: (Need more analysis)|
 |**Styling Support**|- CSS In JS <br /> - Styled Components. <br /> - External CSS/SCSS/LESS.|- External CSS/SCSS/LESS. <br /> - Great support for inline styles as props.|- TailwindCSS support(Versatile Utility first CSS library) <br />- External CSS/SCSS/LESS.|
+|**Figma Kit**|[Material-UI](https://material-ui.com/store/items/figma-react/)|[Chakra-UI](https://www.figma.com/community/file/840198843830316310)|[TailwindCSS/UI](https://www.figma.com/community/file/958381589801778722)|
 |**Documentation**|_Good_ - All at one place with TS/JS code.|_Good_ - Everything at one place with JS code.| Okay - Scattered between TailwindUI and HeadlessUI|
 |**Other Pros**|- Material Design, User can modify the Look and feel if doesn't want to fo with Material-UI. <br /> - Great Community support <br /> - Higher degree of customization.|- Inline CSS as Props. <br /> - Easy to use. <br/> - Good Community support. <br /> - Custom utility hooks|- Versatile Utility first CSS. <br /> - Light weight as there are limited components.|
 |**Cons**|- Initial Learning curve. <br /> - Large codebase|- Limited Typescript support. |- Limited Components. <br /> - User will have to create a lot of custom components. <br/> - Limited Typescript components|
