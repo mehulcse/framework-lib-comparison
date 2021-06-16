@@ -25,7 +25,7 @@ For react, we will go through [Material-UI](https://material-ui.com/), [Chakra-U
 |**Documentation**|_Good_ - All at one place with TS/JS code.|_Good_ - Everything at one place with JS code.| Okay - Scattered between TailwindUI and HeadlessUI|
 |**Other Pros**|- Material Design, User can modify the Look and feel if doesn't want to fo with Material-UI. <br /> - Great Community support <br /> - Higher degree of customization.|- Inline CSS as Props. <br /> - Easy to use. <br/> - Good Community support. <br /> - Custom utility hooks|- Versatile Utility first CSS. <br /> - Light weight as there are limited components.|
 |**Cons**|- Initial Learning curve. <br /> - Large codebase|- Limited Typescript support. |- Limited Components. <br /> - User will have to create a lot of custom components. <br/> - Limited Typescript components|
-|**Tech9 Specific Pros**|- We have integrated this with boilerplate and have developed a good expertise to modify it in terms of functionality or look and feel. <br /> - This is being used in several projects like Facta, Parity.|- We have deloped some expertise in using or Modifying it. <br /> - This is being used in GrayFalcon and RedCanyonMedia Projects |- This is relatively new for us but we have good expertise on TailwindCSS|
+|**Tech9 Specific Pros**|- We have integrated this with boilerplate and have developed a good expertise to modify it in terms of functionality or look and feel. <br /> - This is being used in several projects like Facta, Parity and SuitePeach.|- We have deloped some expertise in using or Modifying it. <br /> - This is being used in GrayFalcon and RedCanyonMedia Projects |- This is relatively new for us but we have good expertise on TailwindCSS|
 
 
 ## Conclusion
